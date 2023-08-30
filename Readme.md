@@ -8,6 +8,7 @@ to meet a specific set of requirements, e.g. Use jetpack compose, contain atleas
 Garde-manger gives a simplified way of making a shopping list specifically for the meals you 
 are making in the coming days. Create meals and tick off the ingredients you have, then in one central
 place you can see all the ingredients you need to by next time you're at the supermarket.
+
 #### Key Learnings
  - Familiarisation with Kotlin programming language
  - Introduction to the Android ecosystem and Android Studio
