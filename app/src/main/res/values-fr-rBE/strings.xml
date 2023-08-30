@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Le Garde-manger</string>
+
+    <string name="meals">Repas</string>
+    <string name="pantry">Garde-manger</string>
+    <string name="back">Retour</string>
+    <string name="edit">Modifier</string>
+    <string name="remove">Supprimer</string>
+
+    <string name="create_meal">Créer un repas</string>
+    <string name="add_ingredient">Ajouter un ingrédient</string>
+
+    <string name="new_meal">Nouveau repas</string>
+    <string name="edit_meal">Modifier repas</string>
+    <string name="save_meal">Sauvegarder repas</string>
+    <string name="meal_information">Détails du repas</string>
+
+    <string name="need_ideas">Besoin d\'idées?</string>
+    <string name="meal_updated_message">Votre repas a été mis à jour.</string>
+</resources>

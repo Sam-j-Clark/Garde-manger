@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Garde-manger</string>
+
+    <string name="meals">Meals</string>
+    <string name="pantry">Pantry</string>
+    <string name="back">Back</string>
+    <string name="edit">Edit</string>
+    <string name="remove">Remove</string>
+
+    <string name="create_meal">Create Meal</string>
+    <string name="add_ingredient">Add Ingredient</string>
+
+    <string name="new_meal">New Meal</string>
+    <string name="edit_meal">Edit Meal</string>
+    <string name="save_meal">Save Meal</string>
+    <string name="meal_information">Meal Information</string>
+
+    <string name="need_ideas">Need Ideas?</string>
+    <string name="meal_updated_message">Your meal has been updated.</string>
+</resources>
