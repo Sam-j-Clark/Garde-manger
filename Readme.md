@@ -5,7 +5,7 @@
 This application was for a university assignment in my mobile computing class. The application was required
 to meet a specific set of requirements, e.g. Use jetpack compose, contain atleast 3 screens, allow for a second langauge etc.
 
-##### App purpose
+#### App purpose
 Garde-manger gives a simplified way of making a shopping list specifically for the meals you 
 are making in the coming days. Create meals and tick off the ingredients you have, then in one central
 place you can see all the ingredients you need to by next time you're at the supermarket. This app is
