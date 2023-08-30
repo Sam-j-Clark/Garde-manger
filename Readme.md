@@ -1,12 +1,27 @@
 
 # Garde-manger (French for Pantry)
 
-### Purpose
+### Background
+This application was for a university assignment in my mobile computing class. The application was required
+to meet a specific set of requirements, e.g. Use jetpack compose, contain atleast 3 screens, allow for a second langauge etc.
 
-Garde-manger gives you a simplified way of making a shopping list specifically for the meals you 
+##### App purpose
+Garde-manger gives a simplified way of making a shopping list specifically for the meals you 
 are making in the coming days. Create meals and tick off the ingredients you have, then in one central
 place you can see all the ingredients you need to by next time you're at the supermarket. This app is
 suitable for anyone who cooks and unfortunately has to pay for their food.
+
+#### Key Learnings
+ - Familiarisation with Kotlin programming language
+ - Introduction to the Android ecosystem and Android Studio
+ - Increased understanding of MVVM architecture and Dependency injection.
+ - Design considerations making an application for a native purpose rather than Web applications.
+
+#### Post Project Reflection
+I am happy with my learning from this project but can definitely see some limitations with it. In particular this application has some issues
+on the service layer. The entities override eachother in places where they shouldn't. This was a conscious decision as the scope of the assignment was focussed on making the application interface. If I was to make this application again I would produce a much more robust service and database layer. I also think the UI is not very exciting however it is functional and that was the main requirement.
+
+Finally, I really enjoyed my development experience with Jetback Compose and with dagger hilt and room. If I was to make this app again though I would like to experiment with React native or Flutter.
 
 ### Development Process
 
@@ -14,19 +29,3 @@ suitable for anyone who cooks and unfortunately has to pay for their food.
 2. This led me to learn about hilt which helped to clean up my development.
 3. I then made static screens for my whole app, followed by adding navigation to these screens.
 4. Finally I added events and view models to implement the CRUD actions of the application.
-
-### Grade Bearing Requirements
-
-1. Home Screen, Pantry Screen, Meals List Screen, Add/Edit meal Screen
-2. The meals screen has a cheeky little shortcut to browse for meal recipes in your browser of choice.
-3. Meals List Screen, Pantry Screen and Add/Edit Meals screen all use Lazy Columns
-4. Button, Text, TextField, Checkbox, Switch, IconButton, TopAppBar
-5. Scaffold, Row, Column, Box
-6. All pages are usable in both portrait and landscape mode
-7. The home page explicitly changes from a Column to a row layout between orientations. 
-8. All strings are from the resources strings files.
-9. Supports French (Thanks Fabian)
-10. The user gets a response in the form of a Toast when they save a meal
-11. Filtering the pantry uses a slide in and out transition animation.
-12. Room database API is used for persistence
-13. Hilt Dependency Injection API for managing State 
