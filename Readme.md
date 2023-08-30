@@ -5,12 +5,9 @@
 This application was for a university assignment in my mobile computing class. The application was required
 to meet a specific set of requirements, e.g. Use jetpack compose, contain atleast 3 screens, allow for a second langauge etc.
 
-#### App purpose
 Garde-manger gives a simplified way of making a shopping list specifically for the meals you 
 are making in the coming days. Create meals and tick off the ingredients you have, then in one central
-place you can see all the ingredients you need to by next time you're at the supermarket. This app is
-suitable for anyone who cooks and unfortunately has to pay for their food.
-
+place you can see all the ingredients you need to by next time you're at the supermarket.
 #### Key Learnings
  - Familiarisation with Kotlin programming language
  - Introduction to the Android ecosystem and Android Studio
@@ -23,6 +20,8 @@ suitable for anyone who cooks and unfortunately has to pay for their food.
 2. This led me to learn about hilt which helped to clean up my development.
 3. I then made static screens for my whole app, followed by adding navigation to these screens.
 4. Finally I added events and view models to implement the CRUD actions of the application.
+
+-------
 
 ### Post Project Reflection
 I am happy with my learning from this project but can definitely see some limitations with it. In particular this application has some issues
